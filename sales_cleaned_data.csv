@@ -1,0 +1,49 @@
+Country Code,Country Name,Month,Quantity,Note
+GBR,United Kingdom,January,5000,Normal
+GBR,United Kingdom,February,5000,Normal
+GBR,United Kingdom,March,5000,Normal
+GBR,United Kingdom,April,4500,Normal
+GBR,United Kingdom,May,5000,Normal
+GBR,United Kingdom,June,5000,Normal
+GBR,United Kingdom,July,0,Covid
+GBR,United Kingdom,August,0,Covid
+GBR,United Kingdom,September,5000,Normal
+GBR,United Kingdom,October,5000,Normal
+GBR,United Kingdom,November,5000,Normal
+GBR,United Kingdom,December,4500,Normal
+FRA,France,January,6000,Normal
+FRA,France,February,6000,Normal
+FRA,France,March,6500,Normal
+FRA,France,April,6000,Normal
+FRA,France,May,6000,Normal
+FRA,France,June,6000,Normal
+FRA,France,July,0,Covid
+FRA,France,August,0,Covid
+FRA,France,September,6000,Normal
+FRA,France,October,6500,Normal
+FRA,France,November,6000,Normal
+FRA,France,December,6000,Normal
+USA,United State,January,7000,Normal
+USA,United State,February,7000,Normal
+USA,United State,March,7000,Normal
+USA,United State,April,7000,Normal
+USA,United State,May,7200,Normal
+USA,United State,June,7000,Normal
+USA,United State,July,7000,Normal
+USA,United State,August,7000,Normal
+USA,United State,September,7000,Normal
+USA,United State,October,7200,Normal
+USA,United State,November,7000,Normal
+USA,United State,December,7000,Normal
+DEU,Germany,January,8000,Normal
+DEU,Germany,February,8200,Normal
+DEU,Germany,March,8000,Normal
+DEU,Germany,April,8000,Normal
+DEU,Germany,May,8000,Normal
+DEU,Germany,June,8200,Normal
+DEU,Germany,July,8000,Normal
+DEU,Germany,August,8000,Normal
+DEU,Germany,September,8000,Normal
+DEU,Germany,October,8200,Normal
+DEU,Germany,November,8000,Normal
+DEU,Germany,December,8000,Normal

@@ -7,8 +7,8 @@
   - Sales data was spread across 12 monthly columns (Wide format), making it hard to analyze trends.
 
 ### 📂 Dataset
-- **`raw_data`**: The original dataset before any transformations.
-- **`cleaned_data`**: The final dataset after Power Query processing.
+- **`raw_data`**: The [original dataset](https://github.com/VoThNhuY/Data-Cleaning-PowerQuery-/blob/main/raw_data.csv) before any transformations.
+- **`cleaned_data`**: The [final dataset](https://github.com/VoThNhuY/Data-Cleaning-PowerQuery-/blob/main/clean_data.xlsx) after Power Query processing.
 
 ## 📸 Visual Comparison
 **Before Cleaning:**
